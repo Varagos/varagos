@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/varagos"><img src="https://api.daily.dev/devcards/v2/92oOfzNT0ZzTWnroTOP1g.png?r=0c9&type=wide" width="652" alt="Markos Girgis's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/varagos"><img src="https://api.daily.dev/devcards/v2/92oOfzNT0ZzTWnroTOP1g.png?r=0c9&type=wide" width="652" alt="Markos Girgis's Dev Card"/></a> -->
 
